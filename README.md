@@ -13,3 +13,9 @@ I learned how to use the basics of putty and github. I learned how to copy a lin
 # End of Third Week
 ## 9/22/2017
 I learned about a network. Networks are more than just between two computers. It can also occur between two people, two families, two countries, etc. I learned how to encrypt messages using two different methods of encryption. I learned that encryption was used during WWII to crack the codes sent from Germany or the U.S. or anywhere so the U.S., for example, could understand the Germans' next move. I also learned the internet is not secure because of encryption errors that could happen when sending data to another computer. I got to encrypt some codes using the caesar method and other methods.  
+
+---
+
+# End of Fourth Week
+## 9/29/2017
+I learned about different types of mammals, birds, reptiles. I learned that Aaron Swartz was a programmer who created xml and he committed suicide because he believed that sharing information should be free. I learned the format of xml and html. Xml is open and closed with <,>, and to end a part of xml you have to </"fill in the blank">. Html is used to link files on the World Wide Web. Html has the same format as xml with the <,>, and /. Examples of nodes are <"node">. Xml is used for self-describing.
