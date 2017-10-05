@@ -19,3 +19,9 @@ I learned about a network. Networks are more than just between two computers. It
 # End of Fourth Week
 ## 9/29/2017
 I learned about different types of mammals, birds, reptiles. I learned that Aaron Swartz was a programmer who created xml and he committed suicide because he believed that sharing information should be free. I learned the format of xml and html. Xml is open and closed with <,>, and to end a part of xml you have to </"fill in the blank">. Html is used to link files on the World Wide Web. Html has the same format as xml with the <,>, and /. Examples of nodes are <"node">. Xml is used for self-describing.
+
+---
+
+# End of Fifth Week
+## 10/5/2017
+I learned more advanced mechanics of html. I realized what I did wrong on the xml animals project and fixed it. I learned that if you type in the ip address and the port then you can see ubuntu on the internet. I learned the head, title, and body of html. I learned how to underline, italize, and bold text on html. I learned how to use hyperlinks that link to different websites from a main website. I learned how to put in an image into html. I learned that Mr. Gold is the most disappointing teacher because he doesn't like ice cream. 
