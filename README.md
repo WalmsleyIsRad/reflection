@@ -25,3 +25,9 @@ I learned about different types of mammals, birds, reptiles. I learned that Aaro
 # End of Fifth Week
 ## 10/5/2017
 I learned more advanced mechanics of html. I realized what I did wrong on the xml animals project and fixed it. I learned that if you type in the ip address and the port then you can see ubuntu on the internet. I learned the head, title, and body of html. I learned how to underline, italize, and bold text on html. I learned how to use hyperlinks that link to different websites from a main website. I learned how to put in an image into html. I learned that Mr. Gold is the most disappointing teacher because he doesn't like ice cream. 
+
+---
+
+# End of Sixth Week
+## 10/13/2017
+I learned more advanced mechanics of html. I learned how to use a bullet point list. I learned how to make a submit button. I learned how to center text. I learned how to do a checkbox list. I learned how to add images into an html website. I learned how to make hyperlinks. I learned that Mr. Gold likes ice cream more than pizza. I learned how to make a nice-ish looking pizza choosing website.
