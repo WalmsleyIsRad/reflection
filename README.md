@@ -31,3 +31,15 @@ I learned more advanced mechanics of html. I realized what I did wrong on the xm
 # End of Sixth Week
 ## 10/13/2017
 I learned more advanced mechanics of html. I learned how to use a bullet point list. I learned how to make a submit button. I learned how to center text. I learned how to do a checkbox list. I learned how to add images into an html website. I learned how to make hyperlinks. I learned that Mr. Gold likes ice cream more than pizza. I learned how to make a nice-ish looking pizza choosing website.
+
+---
+
+# End of Seventh Week
+## 10/19/2017
+I learned the more mechanics of html. I learned how to use main.css. I learned how to change the size of pictures. I learned how to change the font and its color. I learned how to link main.css to the html. I learned how create hyperlinks. I learned how to set a color and picture as your background. I learned how to center that picture and not have it repeat.
+
+---
+
+# End of Eighth Week
+## 10/27/2017
+I learned some more mechanics of html. I learned how to put videos into html. I learned how to make a banner on a website. I learned how to change the colors of the font on the website. I learned how to put hyperlinks into the banner. I learned how to change the icon of a website. I learned how to change the color of font on the website. I learned how to make the background a picture. I learned that one mistake can screw up the entire system.
