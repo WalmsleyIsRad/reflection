@@ -43,3 +43,9 @@ I learned the more mechanics of html. I learned how to use main.css. I learned h
 # End of Eighth Week
 ## 10/27/2017
 I learned some more mechanics of html. I learned how to put videos into html. I learned how to make a banner on a website. I learned how to change the colors of the font on the website. I learned how to put hyperlinks into the banner. I learned how to change the icon of a website. I learned how to change the color of font on the website. I learned how to make the background a picture. I learned that one mistake can screw up the entire system.
+
+---
+
+# End of Ninth Week
+## 11/3/2017
+I learned even more mechanics of html. I learned how to put Youtube videos into html. I learned how to set a background image that fills the whole screen. I learned how to change the color of text. I learned that Avante Siller is a way better Modern Warfare 2 player than Brock Noll. I also learned that Pamaj is a sniping god and that Siller will always beat Noll when it comes to MW2. I learned how to make an image a certain size. .
