@@ -49,3 +49,9 @@ I learned some more mechanics of html. I learned how to put videos into html. I 
 # End of Ninth Week
 ## 11/3/2017
 I learned even more mechanics of html. I learned how to put Youtube videos into html. I learned how to set a background image that fills the whole screen. I learned how to change the color of text. I learned that Avante Siller is a way better Modern Warfare 2 player than Brock Noll. I also learned that Pamaj is a sniping god and that Siller will always beat Noll when it comes to MW2. I learned how to make an image a certain size. .
+
+---
+
+# End of Tenth Week
+## 11/10/2017
+I learned canvas mechanics of html. I learned how to make a box within the website. I learned how to make a gradient, and add different colors to it. I learned how to change the color, size, and font of the text. I learned how to put an online image into the canvas. I learned how to make lines and change the color of them. I learned how to add circles and change the color of them.
