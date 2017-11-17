@@ -55,3 +55,9 @@ I learned even more mechanics of html. I learned how to put Youtube videos into 
 # End of Tenth Week
 ## 11/10/2017
 I learned canvas mechanics of html. I learned how to make a box within the website. I learned how to make a gradient, and add different colors to it. I learned how to change the color, size, and font of the text. I learned how to put an online image into the canvas. I learned how to make lines and change the color of them. I learned how to add circles and change the color of them.
+
+---
+
+# End of Eleventh Week
+## 11/17/2017
+I learned a lot about the school's history. I learned that Spanjer merged SJMA and NMNA together in 1995 to increase enrollement. I learned that in the 1990s, there was an annual federation inspection. I learned that there was an orienteering club to help cadets use maps and compasses to navigate. I learned that 7th and 8th graders were accepted into the school so they could learn good habits from the older cadets. I learned that President Bush visited the campus in 1997. I learned how to take my own pictures and put them into html.
