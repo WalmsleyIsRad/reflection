@@ -61,3 +61,9 @@ I learned canvas mechanics of html. I learned how to make a box within the websi
 # End of Eleventh Week
 ## 11/17/2017
 I learned a lot about the school's history. I learned that Spanjer merged SJMA and NMNA together in 1995 to increase enrollement. I learned that in the 1990s, there was an annual federation inspection. I learned that there was an orienteering club to help cadets use maps and compasses to navigate. I learned that 7th and 8th graders were accepted into the school so they could learn good habits from the older cadets. I learned that President Bush visited the campus in 1997. I learned how to take my own pictures and put them into html.
+
+---
+
+# End of Twelveth Week
+## 12/1/2017
+I learned how to use github with everyone else in class. I learned how to deal with conflicts. I learned how merging at the same time will mess up everything. I learned how to edit other people's things. I learned how to communicate so everything worked out fine. I learned how to put images from a camera into html.
