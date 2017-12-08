@@ -67,3 +67,9 @@ I learned a lot about the school's history. I learned that Spanjer merged SJMA a
 # End of Twelveth Week
 ## 12/1/2017
 I learned how to use github with everyone else in class. I learned how to deal with conflicts. I learned how merging at the same time will mess up everything. I learned how to edit other people's things. I learned how to communicate so everything worked out fine. I learned how to put images from a camera into html.
+
+---
+
+# End of Thirteenth Week
+## 12/8/2017
+I learned the basics about twitter bootstrap. I learned that it is used to fit a website to the size of any device. I learned that it has 12 columns. I learned that it allows the creator of a webiste to write one type of code instead of writing different types of code for different devices. I learned we have to divide 12 by the number of columns you want in order to get the number that you have to put in to get that number of columns on the website. 
