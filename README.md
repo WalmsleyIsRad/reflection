@@ -73,3 +73,9 @@ I learned how to use github with everyone else in class. I learned how to deal w
 # End of Thirteenth Week
 ## 12/8/2017
 I learned the basics about twitter bootstrap. I learned that it is used to fit a website to the size of any device. I learned that it has 12 columns. I learned that it allows the creator of a webiste to write one type of code instead of writing different types of code for different devices. I learned we have to divide 12 by the number of columns you want in order to get the number that you have to put in to get that number of columns on the website. 
+
+---
+
+# End of Fourteenth Week
+## 12/15/2017
+I learned that putting together a website is a lot of people having access to editing is hard. I learned that people need to fix different problems or else we are going to have duplicates. I learned that responsive design is used to stack columns when the screen is shrinked. I learned that letting one person edit everything can be easier than having everyone edit other things if communication is clear. I learned that communicating would have sped up the process.
